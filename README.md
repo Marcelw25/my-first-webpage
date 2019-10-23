@@ -1,6 +1,6 @@
-# _{Application Name}_
+# _{My First Webpage}_
 
-#### _{Brief description of application}, {Date of current version}_
+#### _{Epicodus Practice}, {10/2019}_
 
 #### By _**{List of contributors}**_
 
